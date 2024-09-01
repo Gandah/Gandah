@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07&left_color=red&right_color=green) 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Gandah.Gandah&left_color=red&right_color=green" />
 ## Hi there 👋
 
 <!--
